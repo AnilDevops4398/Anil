@@ -1,0 +1,10 @@
+git featch
+git pull
+git clone
+
+git reset
+  1.soft reset
+  2.mixed reset
+  3.hard reset
+
+git revert
